@@ -12,7 +12,7 @@ This project presents an end-to-end data analysis solution using Microsoft Excel
 
 ---
 
-## 🛠️ Data Architecture & Cleaning Process
+##  Data Architecture & Cleaning Process
 Before building any visuals, the raw data underwent a thorough preparation process in the **working sheet** to ensure absolute data integrity:
 
 1. **Duplicate Management:** Identified and removed redundant rows to avoid skewing metrics.
